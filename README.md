@@ -9,7 +9,7 @@
 
 
    ```bash
-   git clone https://github.com/your-username/smart-notes-app.git
+   git clone https://github.com/mohshamim/SmartNotes.git
    ```
 2. Navigate to the project directory:
 
