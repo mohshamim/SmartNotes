@@ -43,4 +43,4 @@
 
 ## Live Link
 
-[https://smartnotes-web.netlify.app/]()
+[SmartNotes Live Demo](https://smartnotes-web.netlify.app/)
