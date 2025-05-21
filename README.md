@@ -47,4 +47,5 @@
 
 ## Live Link
 
-[SmartNotes Live Demo](https://smartnotes-web.netlify.app/){target="_blank"}
+[SmartNotes Live Demo (opens in new tab)](https://smartnotes-web.netlify.app/)
+
