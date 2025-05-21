@@ -45,7 +45,4 @@
 
 ## Live Link
 
-## Live Link
-
-[SmartNotes Live Demo (opens in new tab)](https://smartnotes-web.netlify.app/)
-
+<a href="https://smartnotes-web.netlify.app/" target="_blank">SmartNotes Live Demo (ctrl+click)</a>
